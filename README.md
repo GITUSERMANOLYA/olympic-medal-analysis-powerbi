@@ -1,5 +1,5 @@
 # olympic-medal-analysis-powerbi
-Power BI dashboard analyzing medal distribution among top Olympic nations
+  Power BI dashboard analyzing medal distribution among top Olympic nations
 # Olympic Medals – Top 10 Nations (Power BI)
 
 ## Overview
